@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidus-github&label=Profile%20views&color=0e75b6&style=flat" alt="kidus-github" /> </p>
 
-- 🔭 I’m currently working on **side projects**
+- 🔭 I’m currently working on **my side projects**
 
 - 📱 I’m currently learning **Mobile App Development**
 
