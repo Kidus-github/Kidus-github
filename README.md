@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm kidus Girma</h1>
+### <h1 align="center">Hi there, I'm Kidus Girma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"> </h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidus-github&label=Profile%20views&color=0e75b6&style=flat" alt="kidus-github" /> </p>
@@ -23,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidus-github&show_icons=true&locale=en" alt="kidus-github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidus-github&" alt="kidus-github" /></p>
+
+![Snake animation](https://github.com/Kidus-github/Kidus-github/blob/output/github-contribution-grid-snake.svg)
