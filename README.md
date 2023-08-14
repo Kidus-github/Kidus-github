@@ -26,3 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidus-github&" alt="kidus-github" /></p>
 
 ![Snake animation](https://github.com/Kidus-github/Kidus-github/blob/output/github-contribution-grid-snake.svg)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/kidus-github/kidus-github/blob/output/github-contribution-grid-snake.svg)
