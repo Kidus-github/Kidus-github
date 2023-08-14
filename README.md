@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidus-github&label=Profile%20views&color=0e75b6&style=flat" alt="kidus-github" /> </p>
 
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/iK4L8kmsZtQUyNgfrm/giphy.gif" />
+
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/GtCAl32NO43AqTzNca/giphy.gif" />
+
 - 🔭 I’m currently working on **my side projects**
 
 - 📱 I’m currently learning **Mobile App Development**
