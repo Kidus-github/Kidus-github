@@ -29,6 +29,7 @@
 <div>&nbsp;<img width=450px src="https://github-readme-stats.vercel.app/api?username=kidus-github&show_icons=true&theme=radical&locale=en" alt="kidus-github" /></div>
 
 ![Snake animation](https://github.com/kidus-github/kidus-github/blob/output/github-contribution-grid-snake.svg)
+Let's build something amazing together! 💻✨
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&locale=en&layout=compact" alt="kidus-github" /></p>
 
