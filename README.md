@@ -9,8 +9,8 @@
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/GtCAl32NO43AqTzNca/giphy.gif" />
 
 - 🔭 I’m currently working on **my side projects**
-
-- 📱 I’m currently learning **Mobile App Development**
+- 📱 Ask me anything about **Web Development** and **Flutter**
+- 👨‍💻 I’m currently learning **DevOps**
 
 - 📫 How to reach me **Kidus.muluwork@gmail.com**
 
