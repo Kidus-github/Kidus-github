@@ -1,6 +1,6 @@
-### <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&lines=Hi there, I'm Kidus Girma!" alt="Typing SVG" /></a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"> </h1>
+### <h1 align="center">Hi there, I'm Kidus Girma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"> </h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=19&pause=1000&color=FFFFFF&width=275&lines=A+passionate+frontend+developer" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidus-github&label=Profile%20views&color=0e75b6&style=flat" alt="kidus-github" /> </p>
 
