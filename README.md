@@ -30,7 +30,21 @@
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&theme=radical&locale=en&layout=compact" alt="kidus-github" /></div>
 <div>&nbsp;<img width=450px src="https://github-readme-stats.vercel.app/api?username=kidus-github&show_icons=true&theme=radical&locale=en" alt="kidus-github" /></div>
 
-![Snake animation](https://github.com/kidus-github/kidus-github/blob/output/github-contribution-grid-snake.svg)
+&nbsp;
+&nbsp;
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!--![Snake animation](https://github.com/kidus-github/kidus-github/blob/output/github-contribution-grid-snake.svg)
 Let's build something amazing together! 💻✨
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&locale=en&layout=compact" alt="kidus-github" /></p>
