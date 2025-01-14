@@ -1,4 +1,5 @@
 ### <h1 align="center">Hi there, I'm Kidus Girma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=700&lines=Hi there, I'm Kidus Girma!" alt="Typing SVG" /></a><br>
 
 <h3 align="center">A passionate frontend developer</h3>
 
