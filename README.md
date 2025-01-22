@@ -27,9 +27,12 @@
 
 <br>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&theme=radical&locale=en&layout=compact" alt="kidus-github" /></div>
+<div width="100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidus-github&show_icons=true&theme=radical&locale=en&layout=compact" alt="kidus-github" /></div>
+<!--
 <div>&nbsp;<img width=450px src="https://github-readme-stats.vercel.app/api?username=kidus-github&show_icons=true&theme=radical&locale=en" alt="kidus-github" /></div>
-
+-->
+ &nbsp; 
+<br/>
 &nbsp;
 &nbsp;
 
