@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my side projects**
 - 📱 Ask me anything about **Web Development** and **Flutter**
-- 👨‍💻 I’m currently learning **DevOps**
+- 👨‍💻 I’m currently learning **AI**
 
 - 📫 How to reach me **Kidus.muluwork@gmail.com**
 
